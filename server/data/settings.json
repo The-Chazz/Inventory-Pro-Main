@@ -1,0 +1,12 @@
+{
+  "settings": [
+    {
+      "storeName": "Val's Onestop Shop",
+      "storeAddress": "SligoVille Road, Thompson Pen",
+      "storePhone": "(876) 7654-321",
+      "thankYouMessage": "Thank you for shopping with us!",
+      "nextTransactionId": 1,
+      "storeLogo": "/uploads/logos/store-logo-1747342008373-394936269.png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sales": [
+    {
+      "items": [
+        {
+          "productId": 1,
+          "name": "Wheat bread",
+          "quantity": 2,
+          "price": 500,
+          "unit": "each",
+          "subtotal": 1000
+        }
+      ],
+      "cashier": "Admin User",
+      "amount": 1000,
+      "status": "Completed",
+      "id": "TRX-20250714-001",
+      "date": "2025-07-14T16:01:29.885Z"
+    },
+    {
+      "items": [
+        {
+          "productId": 1,
+          "name": "Wheat bread",
+          "quantity": 5,
+          "price": 500,
+          "unit": "each",
+          "subtotal": 2500
+        }
+      ],
+      "cashier": "Admin User",
+      "amount": 2500,
+      "status": "Completed",
+      "id": "TRX-20250714-002",
+      "date": "2025-07-14T16:01:42.018Z"
+    }
+  ]
+}

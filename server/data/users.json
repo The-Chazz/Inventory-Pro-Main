@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "username": "admin",
+      "pin": "1234",
+      "role": "Administrator",
+      "lastActive": "2025-07-17T15:18:15.478Z",
+      "status": "Active",
+      "sessionValidUntil": "2025-07-17T17:18:15.478Z"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "username": "sarah",
+      "pin": "1234",
+      "role": "Cashier",
+      "lastActive": "2025-07-17T15:19:32.374Z",
+      "status": "Active",
+      "sessionValidUntil": "2025-07-17T17:19:32.374Z"
+    },
+    {
+      "id": 3,
+      "name": "Mike Peterson",
+      "username": "mike",
+      "pin": "1234",
+      "role": "Cashier",
+      "lastActive": "2025-05-14T21:45:43.083Z",
+      "status": "Active",
+      "sessionValidUntil": "2025-05-14T23:45:43.083Z"
+    },
+    {
+      "id": 4,
+      "name": "John Smith",
+      "username": "john",
+      "pin": "1111",
+      "role": "Cashier",
+      "lastActive": "2025-05-14T17:31:16.637Z",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "username": "emily",
+      "pin": "1234",
+      "role": "Manager",
+      "lastActive": "2025-07-17T15:18:53.493Z",
+      "status": "Active",
+      "sessionValidUntil": "2025-07-17T17:18:53.493Z"
+    },
+    {
+      "id": 6,
+      "name": "Robert Wilson",
+      "username": "robbie",
+      "pin": "1111",
+      "role": "Stocker",
+      "lastActive": "2025-07-17T15:20:11.038Z",
+      "status": "Active",
+      "sessionValidUntil": "2025-07-17T17:20:11.038Z"
+    },
+    {
+      "name": "Test User",
+      "username": "testuser",
+      "role": "Cashier",
+      "status": "Active",
+      "pin": "1234",
+      "id": 7,
+      "lastActive": "2025-07-15T21:23:07.680Z",
+      "sessionValidUntil": "2025-07-15T23:23:07.680Z"
+    },
+    {
+      "name": "Jessica Martinez",
+      "username": "jessica",
+      "role": "Cashier",
+      "status": "Active",
+      "pin": "5678",
+      "id": 8,
+      "lastActive": "2025-07-16T03:52:32.790Z",
+      "sessionValidUntil": "2025-07-16T05:52:32.790Z"
+    }
+  ]
+}

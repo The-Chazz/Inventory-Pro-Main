@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "Wheat bread",
+      "sku": "efewggwfw43tger",
+      "category": "Bakery",
+      "stock": 23,
+      "unit": "each",
+      "price": 500,
+      "priceUnit": "each",
+      "threshold": 10,
+      "image": "",
+      "barcode": "",
+      "id": 1,
+      "status": "In Stock"
+    }
+  ]
+}

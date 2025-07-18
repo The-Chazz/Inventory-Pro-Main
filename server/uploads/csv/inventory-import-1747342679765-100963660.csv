@@ -1,0 +1,10 @@
+sku,name,category,stock,unit,price,priceUnit,threshold,barcode
+GRC-098,Jasmine Rice,Grains,95,kg,2.9,kg,15,6.37575E+11
+GRC-076,Bulk broken rice,Grains,60,kg,3.5,kg,20,1.25478E+11
+GRC-043,Red Peas,Grains,115,kg,2.8,kg,10,4.75763E+11
+FRT-031,Cherries,Fruits,45,kg,3.1,kg,20,6.74567E+11
+FRT-302,Papaya,Fruits,80,kg,3.2,kg,25,1.56826E+11
+FQT-023,Pineapple,Fruits,60,kg,3.4,kg,5,8.76345E+11
+VEG-041,Scotch bonnet,Vegetables,35,kg,3.2,kg,10,1.43567E+11
+VEG-702,Sweet potato,Vegetables,90,kg,1.5,kg,15,8.76675E+11
+VEG-053,Irish,Vegetables,65,kg,3.5,kg,40,8.90769E+11

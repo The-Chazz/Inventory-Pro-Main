@@ -1,0 +1,16 @@
+sku,name,category,stock,unit,price,priceUnit,threshold,barcode
+GRC-001,Brown Rice,Grains,100,kg,2.50,kg,20,8901234567890
+GRC-002,White Basmati Rice,Grains,80,kg,3.75,kg,15,8901234567891
+GRC-003,Long Grain Rice,Grains,120,kg,2.25,kg,25,8901234567892
+FRT-001,Apples,Fruits,50,kg,1.99,kg,10,8901234567893
+FRT-002,Bananas,Fruits,60,kg,1.50,kg,15,8901234567894
+FRT-003,Oranges,Fruits,45,kg,2.25,kg,10,8901234567895
+VEG-001,Tomatoes,Vegetables,40,kg,1.80,kg,8,8901234567896
+VEG-002,Potatoes,Vegetables,100,kg,1.20,kg,20,8901234567897
+VEG-003,Onions,Vegetables,80,kg,1.10,kg,15,8901234567898
+DRY-001,Pasta,Dry Goods,60,pack,1.99,each,10,8901234567899
+DRY-002,Flour,Dry Goods,40,kg,1.50,kg,8,8901234567900
+DRY-003,Sugar,Dry Goods,50,kg,2.20,kg,10,8901234567901
+BVG-001,Milk,Beverages,30,liter,2.50,liter,10,8901234567902
+BVG-002,Orange Juice,Beverages,25,liter,3.75,liter,5,8901234567903
+BVG-003,Coffee,Beverages,20,pack,8.50,each,5,8901234567904

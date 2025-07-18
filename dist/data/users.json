@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "username": "admin",
+      "pin": "1234",
+      "role": "admin",
+      "lastActive": "2025-07-17T19:24:02.972Z",
+      "status": "active",
+      "sessionValidUntil": "2025-07-17T21:24:02.972Z"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "username": "sarah",
+      "pin": "5678",
+      "role": "Cashier",
+      "lastActive": "2025-07-17T19:26:39.782Z",
+      "status": "active",
+      "sessionValidUntil": "2025-07-17T21:26:39.782Z"
+    }
+  ]
+}
